@@ -16,6 +16,7 @@ def count_offline_services(services):
     # TODO: Replace the line below by following Stage 6 in README.md.
     return 0
 
+#Change here
 
 print("LAUNCH NIGHT SERVICE MONITOR")
 print("=" * 28)
